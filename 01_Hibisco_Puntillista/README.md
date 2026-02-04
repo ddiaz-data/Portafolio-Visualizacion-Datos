@@ -13,7 +13,7 @@ $$r < |\sin(2.5 \cdot \theta)| + 0.1$$
 * El `+ 0.1` añade robustez al centro.
 
 ## 🖼️ Resultado
-![Hibisco Puntillista Generado en R](hibisco_final.png)
+![Hibisco Puntillista Generado en R](Hibiscus.png)
 El resultado es una visualización estilo puntillismo donde la densidad de puntos crea la ilusión de volumen y textura.
 
 ## 🛠️ Stack Tecnológico
