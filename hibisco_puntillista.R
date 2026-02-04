@@ -1,5 +1,5 @@
 # -------------------------------------------------------
-# PROYECTO: Banana Plot #01 - El Hibisco (Corrección Tallo + Flor)
+# PROYECTO: Banana Plot #01 - El Hibisco (Tallo + Flor)
 # AUTOR: Dylan Díaz (@banana.plot)
 # -------------------------------------------------------
 
