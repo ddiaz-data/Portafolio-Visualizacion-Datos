@@ -9,7 +9,7 @@ Aquí encontrarás el código reproducible en **R** de las visualizaciones que s
 
 | ID | Proyecto | Descripción | Herramientas |
 |:---:|:---|:---|:---|
-| **01** | [**Flor de San Valentín**](./01_Flor_Valentin) | Arte generativo usando la Proporción Áurea (Filotaxis). | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 R (`ggplot2`) |
+| **01** | [**Flor de San Valentín**](./hibisco_puntillista.R) | Arte generativo usando la Proporción Áurea (Filotaxis). | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 R (`ggplot2`) |
 | **02** | Próximamente... | Nuevos análisis de mapas y datos. | ... |
 
 ---
