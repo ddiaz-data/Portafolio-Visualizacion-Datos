@@ -25,7 +25,8 @@ Todo script de R o Python debe comenzar obligatoriamente con este bloque:
 # FUENTES DE DATOS:
 # [Lista de librerías clave o fuentes de datos como FAO, CONAPESCA, etc.]
 # ==============================================================================
-Convenciones de Código
+```
+# 3.Convenciones de Código
 Librerías: Usar tidyverse como base para manipulación de datos.
 
 Gráficos: ggplot2 con tema minimalista (theme_minimal) y patchwork para composición.
@@ -33,10 +34,10 @@ Gráficos: ggplot2 con tema minimalista (theme_minimal) y patchwork para composi
 Comentarios: Usar líneas separadoras para secciones importantes:
 # ------------------------------------------------------------------------------
 
-4. Filosofía de Visualización
+# 4. Filosofía de Visualización
 Storytelling: Cada gráfico debe responder una pregunta clara (ej. "¿Quién alimenta al mundo?").
 
 Comparación: Priorizar comparaciones de contexto (Global vs Local).
 
 Colores: Usar paletas semánticas consistentes (ej. Azul para Pesca, Verde para Acuacultura).
-```
+
